@@ -1,27 +1,21 @@
-🎁 *{{CLIENT_NAME}}, Рақмет!* 🤗
-_Mobil 1 Center_ және _Castrol Service_ сізге бонустар сыйлады:
+{{CLIENT_NAME}}, *Рақмет!🤗*
+{{IF_ADDED}}**Mobil 1 Center*   *Castrol_Service* сізге бонустар сыйлады:*
+Бұрын болды: {{PREVIOUS_BALANCE}}
+Есептен шығарылды: - {{USED_BONUSES}}
+Есептелді: + {{ADDED_BONUSES}}
+*Баланс:* {{TOTAL_BALANCE}}, {{EXPIRY_DATE_KZ}} дейін жарамды
 
-➕ Есептелді: *+{{ADDED_BONUSES}}*
-💰 Баланс: `{{TOTAL_BALANCE}}`
-⏳ _{{EXPIRY_DATE_KZ}} дейін жарамды_
+{{CLIENT_NAME}}, *Спасибо!🤗*
+{{IF_ADDED}}*Вы получили бонусы от *Mobil 1 Center*   *Castrol_Service*:*
+Было: {{PREVIOUS_BALANCE}}
+Списано: - {{USED_BONUSES}}
+Начислено: + {{ADDED_BONUSES}}
+*Баланс:* {{TOTAL_BALANCE}}, до {{EXPIRY_DATE_RU}}
 
-━━━━━━━━━━━━━━━
-
-🎁 *{{CLIENT_NAME}}, Спасибо!* 🤗
-Вы получили бонусы от _Mobil 1 Center_ и _Castrol Service_:
-
-➕ Начислено: *+{{ADDED_BONUSES}}*
-💰 Баланс: `{{TOTAL_BALANCE}}`
-⏳ _Действуют до {{EXPIRY_DATE_RU}}_
-
-━━━━━━━━━━━━━━━
-
-Мы ценим каждого клиента и всегда рады видеть вас снова! 🙌
-
-📍 *Наши филиалы:*
-1. *Mobil 1 Center* — ул. Райымбек батыра, 132 (Бесагаш)
-2. *Castrol Service* — ул. Жансугурова, 437
-3. *Mobil 1 Center* — ул. Искендерова, 58 (Горный Гигант)
-4. *Castrol Service* — Постышева 23 (Первомайка)
-_С уважением,_
-*команда Fast Motors* 🛠
+Мы очень ценим каждого нашего клиента и будем рады вас видеть снова в нашем автосервисе.
+Наши филиалы:
+1)*Mobil 1 Center ул. Райымбек Батыра 132(Бесагаш)*
+2)*Castrol_Service ул. Жансугурова 437*
+3)*Mobil 1 Center ул. Искендерова 58 (Горный Гигант)*
+4)*Castrol_Service ул. Постышева 23 (Первомайка)*
+С уважением команда: Fast Motors
